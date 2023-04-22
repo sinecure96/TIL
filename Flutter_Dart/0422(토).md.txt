@@ -1,0 +1,6 @@
+04.22 (토)
+
+Flutter 기본
+- 기본 코드 틀 
+- shift+ f 로 code formatting
+- alt + enter로 여러 내장 기능
